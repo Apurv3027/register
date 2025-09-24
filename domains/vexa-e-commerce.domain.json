@@ -1,0 +1,16 @@
+{
+    "description": "Vexa E-Commerce",
+    "domain": "is-a-fullstack.dev",
+    "subdomain": "vexa-e-commerce",
+
+    "owner": {
+        "repo": "https://github.com/Apurv3027/Vexa-E-Commerce",
+        "email": "apurvp002@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "vexa-e-commerce.com",
+    },
+
+    "proxied": true
+}
